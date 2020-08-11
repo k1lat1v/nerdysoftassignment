@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="JavaAssignment">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaAssignment</output-path>
+    <root id="root" />
+  </artifact>
+</component>

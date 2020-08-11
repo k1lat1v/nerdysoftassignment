@@ -1,0 +1,62 @@
+body{
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4a536b;
+    padding: 50px;
+}
+
+.headerForRoom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4a536b;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 47px;
+    color: #ff9a8d;
+    font-family: 'Bookman', sans-serif;
+}
+
+.formDiv{
+    background-color: #ff9a8d;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.formDiv td{
+    color: #FFFFFF;
+}
+
+.alert{
+  padding: 20px;
+  background-color: #3DD68E;
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aed6dc;
+    padding: 75px;
+}
+
+.cartesianGrid {
+    margin: 20px;
+}
+
+
+
+

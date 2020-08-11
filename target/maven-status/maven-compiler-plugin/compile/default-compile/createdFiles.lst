@@ -1,0 +1,8 @@
+org\nerdysoft\vitaliim\controller\Controller.class
+org\nerdysoft\vitaliim\util\ViewNames.class
+org\nerdysoft\vitaliim\util\Mappings.class
+org\nerdysoft\vitaliim\data\Coordinate.class
+org\nerdysoft\vitaliim\config\WebInitializer.class
+org\nerdysoft\vitaliim\Main.class
+org\nerdysoft\vitaliim\config\WebConfig.class
+org\nerdysoft\vitaliim\service\Service.class
